@@ -1,0 +1,2 @@
+class Silly < ApplicationRecord
+end
